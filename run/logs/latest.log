@@ -83,7 +83,7 @@ Details:
 [10:52:45] [Sound Library Loader/INFO]: Sound engine started
 [10:52:47] [Client thread/INFO]: Max texture size: 16384
 [10:52:47] [Client thread/INFO]: Created: 16x16 textures-atlas
-[10:52:48] [Client thread/INFO]: [com.example.examplemod.ExampleMod:init:18]: DIRT BLOCK >> tile.dirt
+[10:52:48] [Client thread/INFO]: [com.example.examplemod.LapinMod:init:18]: DIRT BLOCK >> tile.dirt
 [10:52:48] [Client thread/INFO]: Injecting itemstacks
 [10:52:48] [Client thread/INFO]: Itemstack injection complete
 [10:52:48] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
